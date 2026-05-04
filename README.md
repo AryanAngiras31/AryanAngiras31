@@ -30,6 +30,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanAngiras31&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aryan's Top Languages" />
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanAngiras31&show_icons=true&locale=en&layout=compact" alt="AryanAngiras31" />
