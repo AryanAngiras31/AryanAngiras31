@@ -1,5 +1,5 @@
 # Aryan S Angiras
-AI Systems Engineer
+AI Engineer
 
 I build scalable software systems and backend infrastructure powered by AI and Machine Learning.
 
@@ -16,7 +16,6 @@ I build scalable software systems and backend infrastructure powered by AI and M
 
 ### Core Stack & Interests
 
-* **Languages:** Rust, Python, TypeScript, SQL
-* **Systems & Infrastructure:** Docker, FastAPI, Actix-Web, PostgreSQL
-* **AI & Inference:** PyTorch, Qdrant, ONNX Runtime, Bi/Cross-Encoders
-* **Research Interests:** Neuro-symbolic AI, Deterministic LLM Constraints, Knowledge Graphs, Semantic Search
+* **Languages:** Rust, Python, TypeScript
+* **AI & Inference:** PyTorch, Qdrant, ONNX Runtime, Bi/Cross-Encoders, Agentic AI
+* **Research Interests:** Neuro-symbolic AI, Deterministic LLM Constraints, Knowledge Graphs, Information Retrieval
