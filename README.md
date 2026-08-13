@@ -27,7 +27,3 @@ I build AI/ML enabled software systems.
 • **Backend & Web Frameworks:** FastAPI, Actix-Web, Tokio, React, Vite, Flask  
 • **Databases:** Qdrant (Vector DB), PostgreSQL, MySQL, SQLite, MongoDB  
 • **DevOps & Infrastructure:** Docker, Docker Compose, Linux, Git, Nginx, Vercel  
-
----
-
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/aryan-angiras) | [Email](mailto:aryan.s.angiras31@gmail.com)
