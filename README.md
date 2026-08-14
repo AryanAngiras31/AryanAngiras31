@@ -7,13 +7,13 @@ I build AI and machine learning enabled software systems with an emphasis on bac
 
 ### Selected Projects
 
-* **[Sunder](https://github.com/AryanAngiras31/Sunder)** — *Agentic Zero-Trust Codebase Testing Framework*  
+* **[Sunder](https://github.com/AryanAngiras31/Sunder)**  *Agentic Zero-Trust Codebase Testing Framework*  
   An AI testing framework for enterprise codebases built using LangGraph. Features an Evaluator-Optimizer state machine that bypasses authentication barriers to run deep logic testing. 
 
-* **[Verity](https://github.com/AryanAngiras31/Verity)** — *High-Concurrency Scientific Claim Verification Engine*  
+* **[Verity](https://github.com/AryanAngiras31/Verity)**  *High-Concurrency Scientific Claim Verification Engine*  
   A Natural Language Inference (NLI) engine that verifies scientific assertions against a 36,000+ document corpus without relying on generative LLMs.
 
-* **[KrivaCare](https://github.com/AryanAngiras31/KrivaCare)** — *Multimodal Healthcare AI with Uncertainty-Guided Fusion*  
+* **[KrivaCare](https://github.com/AryanAngiras31/KrivaCare)**  *Multimodal Healthcare AI with Uncertainty-Guided Fusion*  
   A medical diagnostic pipeline built with PyTorch. It uses an uncertainty-driven "late fusion" approach to evaluate the text and image models independently and then determines the final classification.
 ---
 
