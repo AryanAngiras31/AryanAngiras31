@@ -1,7 +1,7 @@
 # Aryan S Angiras
 
 **AI & Backend Engineer**  
-I build AI/ML enabled software systems.
+I build AI and machine learning enabled software systems with an emphasis on backend concurrency, low-latency execution, and deterministic reliability.
 
 ---
 
@@ -11,10 +11,7 @@ I build AI/ML enabled software systems.
   An AI testing framework for enterprise codebases built using LangGraph. Features an Evaluator-Optimizer state machine that bypasses authentication barriers to run deep logic testing. 
 
 * **[Verity](https://github.com/AryanAngiras31/Verity)** — *High-Concurrency Scientific Claim Verification Engine*  
-  A Natural Language Inference (NLI) engine that verifies scientific assertions against a 36,000+ document corpus without relying on generative LLM hallucinations.
-
-* **HRMS AI Microservices** — *Production Enterprise AI Services*  
-  Three independent AI microservices containerized using FastAPI and Docker Compose for an enterprise HRMS. Features a sub-200ms candidate-ranking engine alongside resume and tax invoice parsing pipelines combining Llama 3.3 and OCRs.
+  A Natural Language Inference (NLI) engine that verifies scientific assertions against a 36,000+ document corpus without relying on generative LLMs.
 
 * **[KrivaCare](https://github.com/AryanAngiras31/KrivaCare)** — *Multimodal Healthcare AI with Uncertainty-Guided Fusion*  
   A medical diagnostic pipeline built with PyTorch. It uses an uncertainty-driven "late fusion" approach to evaluate the text and image models independently and then determines the final classification.
